@@ -1,0 +1,49 @@
+- generic [ref=e456]:
+  - generic [ref=e457]:
+    - banner [ref=e458]:
+      - generic [ref=e459]:
+        - generic [ref=e460]:
+          - button "Open Menu" [ref=e461] [cursor=pointer]
+          - img "Open Menu" [ref=e462]
+        - generic [ref=e463]: Swag Labs
+        - button "Cart, 2 items" [ref=e466]:
+          - generic [ref=e467]: "2"
+      - generic [ref=e468]: Your Cart
+    - main [ref=e470]:
+      - generic [ref=e471]:
+        - generic [ref=e472]:
+          - generic [ref=e473]: QTY
+          - generic [ref=e474]: Description
+          - generic [ref=e475]:
+            - generic [ref=e476]: "1"
+            - generic [ref=e477]:
+              - button "View details for Sauce Labs Backpack" [ref=e478] [cursor=pointer]:
+                - generic [ref=e479]: Sauce Labs Backpack
+              - generic [ref=e480]: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+              - generic [ref=e481]:
+                - generic [ref=e482]: $29.99
+                - button "Remove" [ref=e483] [cursor=pointer]
+          - generic [ref=e484]:
+            - generic [ref=e485]: "1"
+            - generic [ref=e486]:
+              - button "View details for Sauce Labs Bike Light" [ref=e487] [cursor=pointer]:
+                - generic [ref=e488]: Sauce Labs Bike Light
+              - generic [ref=e489]: A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+              - generic [ref=e490]:
+                - generic [ref=e491]: $9.99
+                - button "Remove" [ref=e492] [cursor=pointer]
+        - generic [ref=e493]:
+          - button "Continue Shopping" [ref=e494] [cursor=pointer]
+          - button "Checkout" [ref=e495] [cursor=pointer]
+  - contentinfo [ref=e496]:
+    - list [ref=e497]:
+      - listitem [ref=e498]:
+        - link "X" [ref=e499] [cursor=pointer]:
+          - /url: https://x.com/saucelabs
+      - listitem [ref=e500]:
+        - link "Facebook" [ref=e501] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=e502]:
+        - link "LinkedIn" [ref=e503] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=e504]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy
