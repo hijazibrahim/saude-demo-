@@ -1,0 +1,25 @@
+{
+  "servers": {
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ]
+    },
+    "selenium": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@angiejones/mcp-selenium@latest"
+      ]
+    },
+    "playwright-test": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "playwright",
+        "run-test-mcp-server"
+      ]
+    }
+  }
+}
